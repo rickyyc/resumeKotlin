@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResumeKotlin</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="to">-</string>
+
+</resources>
